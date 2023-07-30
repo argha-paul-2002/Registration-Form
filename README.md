@@ -14,7 +14,7 @@
 
 🚀 **Get Started:**
 
-1. 📥 Clone the repository: `[git clone https://github.com/your-username/simple-registration-form.git](https://github.com/argha-paul-2002/Registration-Form.git)`
+1. 📥 Clone the repository: `https://github.com/argha-paul-2002/Registration-Form.git`
 2. 🌐 Open `index.html` in your preferred web browser.
 3. 📝 Complete the registration form with your information.
 4. 📤 Submit the form to experience a seamless registration process.
